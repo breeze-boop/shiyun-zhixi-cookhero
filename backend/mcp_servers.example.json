@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "encyclopedia": {
+      "command": "replace-with-mcp-server-command",
+      "args": ["--stdio"],
+      "env": {
+        "API_KEY": "replace-with-provider-key"
+      }
+    },
+    "image_generation": {
+      "command": "replace-with-image-mcp-server-command",
+      "args": ["--stdio"],
+      "env": {}
+    }
+  }
+}

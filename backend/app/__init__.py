@@ -1,0 +1,2 @@
+"""CookHero backend package."""
+
